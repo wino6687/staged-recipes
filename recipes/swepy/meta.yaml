@@ -32,6 +32,7 @@ requirements:
     - scikit-image
     - affine
     - netcdf4
+    - mapboxgl
 
 test:
   requires:
